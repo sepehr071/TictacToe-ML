@@ -64,7 +64,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **Project Link**: [https://github.com/sepehr071/TictacToe-ML](https://github.com/sepehr071/TictacToe-ML)
-
----
-
-This README is designed to offer a clear introduction and guide to interacting with the project. If you need further customization or additional details, let me know!
