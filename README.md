@@ -1,7 +1,3 @@
-Based on the content of the repository "Tic-tac-toe Machine Learning" on GitHub, here's an updated and detailed README that reflects the actual project files and their functionalities:
-
----
-
 # Tic-tac-toe Machine Learning
 
 Welcome to the Tic-tac-toe Machine Learning repository! This project aims to develop a sophisticated AI opponent for the classic tic-tac-toe game using machine learning techniques. By training models to predict optimal moves, this project provides an interactive and challenging gaming experience.
